@@ -1,4 +1,5 @@
-## Sejam Bem-Vindos ao Meu Mundo!
+
+# Sejam Bem-Vindos ao Meu Mundo!
 <img src="https://c.tenor.com/H6Wa34pVmcIAAAAd/tenor.gif" width="400px">
 
 ---
@@ -13,6 +14,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Thallentos-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Thallentos-Py" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Thallentos-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="center" alt="Thallentos-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" alt="Thallentos-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 <img align="center" alt="Thallentos-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +23,7 @@
 </div>
 
 ---
+
 <img src="https://c.tenor.com/D6P7ayaAqY0AAAAd/tenor.gif" width="400px">
 
 
