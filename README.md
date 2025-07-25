@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
+<img src="https://c.tenor.com/H6Wa34pVmcIAAAAd/tenor.gif" width="400px">
 
-![Jesus apontando pra cima](https://c.tenor.com/H6Wa34pVmcIAAAAd/tenor.gif)
 ---
 
 😎 Oioi, pessoal. Meu nome é Thalles, vulgo thallentos!
@@ -9,15 +9,20 @@
 
 📫 [Acesso o meu Linkedin](https://www.linkedin.com/in/thalles-marques/)
 
+<div align="center">
+<div style="display: inline_block"><br>
+<img align="center" alt="Thallentos-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Thallentos-Py" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Thallentos-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="Thallentos-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<img align="center" alt="Thallentos-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Thallentos-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Thallentos-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
+</div>
+
 ---
+<img src="https://c.tenor.com/D6P7ayaAqY0AAAAd/tenor.gif" width="400px">
 
-### Minhas Tecnologias
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg)
-
-<img>
-                    
-
-![Jesus, você é o cara](https://c.tenor.com/D6P7ayaAqY0AAAAd/tenor.gif)
 
 <!--
 **thallentos/thallentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
