@@ -1,8 +1,6 @@
-# Sejam Bem-Vindos ao Meu Mundo!
+# Bem-Vindos ao Meu Mundo!
 
 <img src="./gifs/chosen-jesus-apontando-cima.gif" width="400px">
-
----
 
 <h3 align="center">
   Tech Student • A future FullStack Developer
@@ -20,7 +18,7 @@
 
 </div>
 
-<img src="./lineBar/lineBar.png" width="100%" height="8px"/>
+<img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
@@ -30,13 +28,10 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu sonho é me tornar um Desenvolvedor FullStack.<br />
 - <img src="./another-images/Scroll.png"  height="25" width="25"> Sou graduando em Sistemas de Informação pela UVV <br />
 - <img src="./another-images/Rocket.png" height="25" width="25"> Minha meta é ser um dev e missionário <br />
-- <img src="./another-images/Globe with Meridians.png" height="25" width="25"> [Acesse o meu Linkedin](https://www.linkedin.com/in/thalles-marques/) <br />
 
 ## &nbsp;My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,python,java,nodejs,git,github,mysql&theme=dark" />
-
-#
 
 <h3>Contact Me</h3>
 <div align="left">
@@ -48,7 +43,7 @@
 </p>
 </div>
 
-<img src="./lineBar/lineBar.png" width="100%" height="8px"/>
+<img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 ## 📌 &nbsp;Pinned Repositories
 
@@ -86,11 +81,11 @@
 	</tbody>
 </table>
 
-<img src="./lineBar/lineBar.png" width="100%" height="8px"/>
+<img align='center' src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 #
 
-<center><h1>God bless you, little grasshopper</h1></center>
+<center align='center'><h1>God bless you, little grasshopper</h1></center>
 
 <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
