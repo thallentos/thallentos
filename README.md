@@ -85,7 +85,7 @@
 
 
 <h1 align="center">
-    God bless you, little grasshopper
+    God bless you, young grasshopper
 </h1>
 
 <div align="center">
