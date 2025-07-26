@@ -1,8 +1,6 @@
-<h1 align="center">Bem-Vindos ao Meu Mundo!</h1>
+<h1>Bem-Vindos ao Meu Mundo!</h1>
 
-<div align="center">
 <img src="./gifs/chosen-jesus-apontando-cima.gif" width="400px">
-</div>
 
 <h3 align="center">
   Tech Student • A future FullStack Developer
@@ -71,7 +69,7 @@
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-blog">
+			<a href="https://github.com/thallentos/JS-Pokedex-PokeAPI-DIO">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
       </a>
       </td>
