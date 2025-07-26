@@ -81,7 +81,7 @@
 	</tbody>
 </table>
 
-<img align='center' src="./another-images/lineBar.png" width="100%" height="8px"/>
+<img align="center" src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 #
 
