@@ -89,7 +89,9 @@
     God bless you, little grasshopper
 </h1>
 
-<img align="center" src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
+<div align="center">
+    <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
+</div>
 
 <!--
 **thallentos/thallentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
