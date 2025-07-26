@@ -81,13 +81,15 @@
 	</tbody>
 </table>
 
-<img align="center" src="./another-images/lineBar.png" width="100%" height="8px"/>
+<img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
-<center align='center'><h1>God bless you, little grasshopper</h1></center>
+<h1 align="center">
+    God bless you, little grasshopper
+</h1>
 
-<img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
+<img align="center" src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 <!--
 **thallentos/thallentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
