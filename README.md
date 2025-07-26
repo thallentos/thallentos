@@ -16,6 +16,8 @@
 
 </div>
 
+  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thallentos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" /> -->
+
 </div>
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
@@ -83,7 +85,6 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-
 <h1 align="center">
     God bless you, young grasshopper
 </h1>
@@ -91,18 +92,3 @@
 <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 </div>
-
-<!--
-**thallentos/thallentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
