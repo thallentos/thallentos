@@ -83,7 +83,6 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-<div><br />
 
 <h1 align="center">
     God bless you, little grasshopper
