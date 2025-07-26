@@ -1,6 +1,8 @@
-# Bem-Vindos ao Meu Mundo!
+<h1 align="center">Bem-Vindos ao Meu Mundo!</h1>
 
+<div align="center">
 <img src="./gifs/chosen-jesus-apontando-cima.gif" width="400px">
+</div>
 
 <h3 align="center">
   Tech Student • A future FullStack Developer
