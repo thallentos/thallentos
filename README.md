@@ -29,7 +29,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25"> Oioi, pessoal. Meu nome é Thalles, vulgo thallentos! <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu sonho é me tornar um Desenvolvedor FullStack.<br />
 - <img src="./another-images/Scroll.png"  height="25" width="25"> Sou graduando em Sistemas de Informação pela UVV <br />
-- <img src="./another-images/Rocket.png" height="25" width="25"> Minha meta é ser um dev e missionário <br />
+- <img src="./another-images/Rocket.png" height="25" width="25"> Minha meta é ser um dev-missionário <br />
 
 ## &nbsp;My Stack
 
