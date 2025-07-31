@@ -1,4 +1,6 @@
-<h1>Bem-Vindos ao Meu Mundo!</h1>
+<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7EF&center=false&vCenter=false&random=false&width=524&lines=Bem+vindos+ao+meu+mundo!+%CB%99%E1%B5%95%CB%99+" alt="Typing SVG">
+</a>
 
 <img src="./gifs/chosen-jesus-apontando-cima.gif" width="400px">
 
@@ -94,9 +96,13 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-<h1 align="center">
-    God bless you, young grasshopper
-</h1>
+##
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7EF&center=false&vCenter=false&random=false&width=524&lines=So....+God+bless+you,+young+grasshoper!" alt="Typing SVG">
+	</a>
+</div>
 
 <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
