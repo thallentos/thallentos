@@ -86,6 +86,8 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
+![Snake Animation](https://github.com/thallentos)
+
 <h1 align="center">
     God bless you, young grasshopper
 </h1>
