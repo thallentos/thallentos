@@ -10,13 +10,13 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thallentos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="59.56%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thallentos&rank_icon=github&show_icons=true&hide=stars,prs,issues&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallentos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallentos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 </div>
 
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thallentos&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thallentos&layout=compact&title_color=80F7D4&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
 
 </div>
 
@@ -38,10 +38,9 @@
 <h3>Contact Me</h3>
 <div align="left">
 <p>
-<a href="mailto:thallescmarques@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/thalles-marques"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+	<a href = "mailto:thallescmarques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/thalles-marques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	<a href="https://www.youtube.com/@thallentos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </p>
 </div>
 
