@@ -16,7 +16,7 @@
 
 </div>
 
-  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thallentos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" /> -->
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thallentos&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 </div>
 
@@ -59,7 +59,7 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/thallentos/API-ChampionsLeague-Node-DIO">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
       </a>
       </td>
 			<td valign="top">
